@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erfan</h1>
 <h3 align="center">An interested participant in the big and complex world of deep learning and ML.</h3>
 
-- 🌱 I’m currently learning **how to deal with large datasets in the process of training and how advanced vision system for interpretation work in the context of deep learning and neural networks like ResNet , inception , GAN and different types of autoencoders.**
+- 🌱 I’m currently learning **how to deal with large datasets in the process of training,data modeling,making Iot pipelines and also how advanced vision system for interpretation work in the context of deep learning and neural networks like ResNet , inception , GAN and different types of autoencoders.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
